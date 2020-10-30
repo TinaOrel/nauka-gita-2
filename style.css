@@ -1,0 +1,21 @@
+body {
+	font-family: 'Turret Road', cursive;
+}
+
+.container {
+    margin: 0 400px;
+    padding: 0 20px;
+}
+
+h1, h4 {
+	font-weight: 900;
+	text-align: center;
+}
+
+h5 {
+	font-style: italic;
+}
+
+.source {
+	margin-top: 30px;
+}
